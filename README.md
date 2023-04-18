@@ -2,8 +2,8 @@
 
 I'm a researcher at the [Department of Bioengineering](https://bioeng.t.u-tokyo.ac.jp/en/), School of Engineering, The University of Tokyo.
 - 🔬 I'm working on causal discovery techniques for applications in precision health and healthy aging.
-- 💛 My (forever) interest is [graph](https://scholar.google.com/citations?user=iuSBSHsAAAAJ&hl=en).
-- 🌱 These days, I'm excited about [Rust](https://www.rust-lang.org/).
+- 🌱 I’m currently learning about time series.
+- 💛 My interest is [graph](https://scholar.google.com/citations?user=iuSBSHsAAAAJ&hl=en). 
 
 
 <!--
